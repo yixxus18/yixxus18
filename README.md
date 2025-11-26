@@ -1,127 +1,97 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D200%26color%3D00f2ff%26section%3Dheader%26text%3DHello%2520World!%26fontSize%3D50%26fontAlignY%3D35%26desc%3DI%27m%2520Jes%C3%BAs%2520(Yisus)%2520👋&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<h3 align="center">
-  Hi, I'm Jesús (Yisus) 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DSoftware%2BDeveloper%3BFull%2BStack%2BEnthusiast%3BGame%2BDev%2BExplorer%2B(Unity)%3BAlways%2Blearning%2Bnew%2Btechs%3BLet%27s%2Bbuild%2Bsomething%2Bepic!+🚀&font=Fira+Code&center=true&width=500&height=50&color=38bdf8">
+</a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Game%20Developer;Frontend%20%26%20Backend%20Enthusiast;Always%20learning%20new%20things;Welcome%20to%20my%20profile%20👀;Let's%20build%20something%20great%20🚀&font=Fira%20Code&center=true&width=480&height=45">
-  </a>
+<a href="https://github.com/yixxus18/">
+<img align="center" alt="Profile views" src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3Dyixxus18.yixxus18%26left_color%3D0f172a%26right_color%3D06b6d4">
+</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yixxus18/">
-    <img align="center" alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=yixxus18.yixxus18">
-  </a>
-</p>
-
----
-
-- 💻 I'm a passionate **Software Developer** who loves creating innovative web and game projects.  
-- 🧠 Currently learning more about **Angular**, **.NET**, and **Swift** for iOS development.  
-- 🎮 I enjoy combining **creativity and logic** through interactive and visual experiences.  
-- 📫 Feel free to reach out if you’d like to collaborate or discuss ideas!
-
----
-
-## 🛠 Tech Stack
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-#### ⚙️ Frameworks & Tools
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Electron](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
-
----
-
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=yixxus18&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+💻 Software Developer passionate about crafting scalable web and mobile applications.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yixxus18&theme=github_dark)
+🚀 Currently expanding my skills in .NET, Docker, and Game Development with Unity.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yixxus18&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+🎨 I love blending logic with creativity to build interactive user experiences.
+
+🤝 Open to collaborations on innovative projects!
 
 </div>
 
----
+🛠 Tech Stack
 
-## 📈 Activity Graph
-[![Yisus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yixxus18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 💬 Most Used Languages
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=yixxus18&show_icons=true&locale=en&layout=compact&theme=radical)]()
+💻 Languages
+
+⚙️ Frameworks & Libraries
+
+🧰 Tools & DevOps
 
 </div>
 
----
+🚀 Featured Projects
 
-## 🏆 GitHub Trophies
+Neuro Cash (HackMTY)
+
+MR Asesores
+
+<img src="https://www.google.com/search?q=https://via.placeholder.com/300x150/000000/FFFFFF%3Ftext%3DNeuro%2BCash" width="300" />
+
+<img src="https://www.google.com/search?q=https://via.placeholder.com/300x150/000000/FFFFFF%3Ftext%3DMR%2BAsesores" width="300" />
+
+🏆 Fintech Solution developed in <24h
+
+💼 Full Stack Management System
+
+View on Devpost
+
+Visit Website
+
+📊 GitHub Stats
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yixxus18&theme=onedark&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/yixxus18">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyixxus18%26theme%3Dtokyonight%26show_icons%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Jesus Corona Stats" />
+</a>
+
+
+
+
+
+<a href="https://github.com/yixxus18">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyixxus18%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" />
+</a>
+
+<a href="https://git.io/streak-stats">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dyixxus18%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" />
+</a>
 
 </div>
 
----
+🔗 Let's Connect!
 
-## 🔗 Contact Me
 <div align="center">
-<a href="mailto:yisuskroom@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jesus-corona-9037a6303/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yisuskroom@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jesus-corona-9037a6303/">
+<img alt="LinkedIn" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://yixxus18.github.io/portfolio">
+<img alt="Portfolio" src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" />
+</a>
 </div>
 
----
-
-<h5 align="center">"Code. Create. Learn. Repeat."</h5>
-
----
-
-<h6 align="center">👇 Check out my projects below 👇</h6>
-
-------
-
-Credit: [Yisus](https://github.com/yixxus18)
-
-Last Edited on: 15/10/2025
+<div align="center">
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D100%26color%3D00f2ff%26section%3Dfooter" />
+</div>
