@@ -108,8 +108,10 @@
 
 ## 🔗 Contact Me
 <div align="center">
+<a href="https://jesus-corona-cv.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:yisuskroom@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jesus-corona-9037a6303/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jesus-corona-9037a6303/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/yixxus18/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
@@ -125,3 +127,4 @@
 Credit: [Yisus](https://github.com/yixxus18)
 
 Last Edited on: 15/10/2025
+
