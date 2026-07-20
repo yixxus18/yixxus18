@@ -191,15 +191,9 @@ Full Stack Software Developer with hands-on experience building **enterprise web
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yixxus18&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yixxus18&theme=onedark&no-frame=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yixxus18&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
